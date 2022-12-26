@@ -1,4 +1,5 @@
 import requests
+import time
 
 print("""
 
@@ -37,3 +38,5 @@ Olá {user}, A qualidade do ar em {city_name} é: {aqi}  \n
   .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
 :::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
 '""")
+
+time.sleep(3)
