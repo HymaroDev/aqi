@@ -12,8 +12,7 @@ print("""
                                                                                               
                                                                                               
 
-
-by Gregorio Caetano\n""")
+\n""")
 
 user = input("Olá! Qual o seu Nome: ")
 
